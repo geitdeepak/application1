@@ -1,7 +1,1 @@
 This is FileB.
-<<<<<<< HEAD
-Let's make a change.
-this is for squash merge
-=======
-Making another change.
->>>>>>> FeatureA
